@@ -14,7 +14,7 @@ I am using the docker: restsql/mysql-sakila, MySQL 5.7 with sakila database plus
 ## HackerHank Folder:
 It's the resolution I submitted on my Haccker Hack account.
   https://www.hackerrank.com/
-## Postgres Practise
+## Postgres Practice
 I am using docker to have access to a Postgres database.
 ```
 $ docker pull postgres
